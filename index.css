@@ -1,0 +1,13 @@
+.copyright {
+  z-index: 9 !important;
+  position: sticky;
+}
+
+.collapsibleContainer {
+  z-index: -9;
+  overflow: hidden;
+}
+
+.right {
+  position: sticky !important;
+}
